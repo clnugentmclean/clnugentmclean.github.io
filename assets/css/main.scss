@@ -34,11 +34,11 @@
 
 /* Sticky header */
 .masthead {
-  position: fixed;
+  position: fixed !important;
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 20;
+  z-index: 9999; /* well above anything else on the page */
 }
 
 /* Push page content down so it isn't hidden under the fixed header */
