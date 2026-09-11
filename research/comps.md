@@ -36,9 +36,15 @@ To search through the summaries and reading lists, use the text box above to sea
 <li>
 <a href="https://clnugentmclean.github.io/assets/comps/crosby-ecological.pdf">Crosby, Alfred W. <em>Ecological Imperialism: The Biological Expansion of Europe, 900–1900.</em> New York: Cambridge University Press, 1986.</a>
 </li>
-<em> [Diamond, Jared. <em>Guns, Germs, and Steel: The Fates of Human Societies.</em> New York: Vintage, 1998.](https://clnugentmclean.github.io/assets/comps/diamond-guns.pdf)
-<em> [Gunder Frank, A. <em>ReORIENT: Global Economy in the Asian Age.</em> Berkeley: University of California Press, 1998.](https://clnugentmclean.github.io/assets/comps/gunder-reorient.pdf)
-<em> [Ho, Engseng. <em>The Graves of Tarim: Genealogy and Mobility across the Indian Ocean.</em> Berkeley: University of California Press, 2006.](https://clnugentmclean.github.io/assets/comps/ho-graves.pdf)
+<li>
+<a href="https://clnugentmclean.github.io/assets/comps/diamond-guns.pdf">Diamond, Jared. <em>Guns, Germs, and Steel: The Fates of Human Societies.</em> New York: Vintage, 1998.</a>
+</li>
+<li>
+<a href="https://clnugentmclean.github.io/assets/comps/gunder-reorient.pdf">Gunder Frank, A. <em>ReORIENT: Global Economy in the Asian Age.</em> Berkeley: University of California Press, 1998.</a>
+</li>
+<li>
+<a href="https://clnugentmclean.github.io/assets/comps/ho-graves.pdf">Ho, Engseng. <em>The Graves of Tarim: Genealogy and Mobility across the Indian Ocean.</em> Berkeley: University of California Press, 2006.</a>
+</li>
 <em> [Hodgson, Marshall. <em>Re-thinking World History: Essays on Europe, Islam and World History.</em> New York: Cambridge University Press, 1993.](https://clnugentmclean.github.io/assets/comps/hodgson-rethinking.pdf)
 <em> [Lake, Marilyn, and Henry Reynolds. <em>Drawing the Global Colour Line: White Men's Countries and the International Challenge of Racial Equality.</em> New York: Cambridge University Press, 2008.](https://clnugentmclean.github.io/assets/comps/lake-reynolds-drawing.pdf)
 <em> [Landes, David. <em>The Wealth and Poverty of Nations: Why Some are So Rich and Some So Poor.</em> New York: W.W. Norton, 1998.](https://clnugentmclean.github.io/assets/comps/landes-wealth.pdf)
