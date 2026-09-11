@@ -92,3 +92,18 @@ $monospace: "SFMono-Regular", Consolas, monospace; // code blocks
 .greedy-nav .visible-links a::before {
   background: #5A1846 !important; /* or whatever accent you want here */
 }
+
+.oval-portrait {
+  float: right;
+  width: 280px;
+  height: 360px;
+  object-fit: cover; /* crops the photo to fill the oval without distorting it */
+  border-radius: 50%; /* unequal width/height + 50% radius = oval, not circle */
+  margin: 0 0 1.5em 2em;
+  shape-outside: ellipse(50% 50%); /* text wraps the curve, not the box */
+}
+
+/* stop the next heading/section from being squeezed if the image is taller than the text */
+.oval-portrait-clear {
+  clear: both;
+}
