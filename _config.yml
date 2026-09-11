@@ -1,10 +1,12 @@
 title: "Colleen L. Nugent McLean"
-description: "Exploring anti-Muslim racism in The Times through word vector models"
+description: "Digital Historian in Boston"
+url: "https://clnugentmclean.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"
 
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
 markdown: kramdown
+

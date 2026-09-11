@@ -1,6 +1,6 @@
 ---
 title: "Projects"
 layout: single
-permalink: /research/corpus/
+permalink: /research/projects/
 ---
-Content about your corpus goes here.
+Info about projects

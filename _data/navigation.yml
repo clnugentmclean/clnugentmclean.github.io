@@ -3,7 +3,8 @@ main:
     url: /
 
   - title: "CV"
-    url: /cv/
+    url: /CV/
+
 
   - title: "Research"
     children:
@@ -15,4 +16,9 @@ main:
       - title: "Projects"
         url: /research/projects/
 
+  
 
+    
+
+
+        
