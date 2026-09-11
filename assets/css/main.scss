@@ -3,7 +3,8 @@
 $link-color: #5A1846; 
 $link-color-hover: #5A1846; 
 
-$sans-serif: "Georgia", "Times New Roman", serif; // body text
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap");
+$sans-serif: "Lora", Georgia, serif;
 $sans-serif-narrow: $sans-serif;
 $monospace: "SFMono-Regular", Consolas, monospace; // code blocks
 
