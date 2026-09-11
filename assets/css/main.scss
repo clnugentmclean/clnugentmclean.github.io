@@ -83,3 +83,7 @@ $link-color-hover: #5A1846;
 .page__footer a:hover {
   color: #ffffff !important;
 }
+
+.greedy-nav .visible-links a::before {
+  background: #5A1846 !important; /* or whatever accent you want here */
+}
