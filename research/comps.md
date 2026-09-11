@@ -91,10 +91,11 @@ To search through the summaries and reading lists, use the text box above to sea
 <li><a href="https://clnugentmclean.github.io/assets/comps/bush-imperialism.pdf">Bush, Barbara. <em>Imperialism and Postcolonialism.</em> London: Pearson, 2006.</a></li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/cooper-colonialism.pdf">Cooper, Frederick. <em>Colonialism in Question: Theory, Knowledge, History.</em> Berkeley: University of California Press, 2007.</a>
 </li>
-<li><a href="https://clnugentmclean.github.io/assets/comps/cooper-stoler-tensions.pdf">Cooper, Frederick and Ann Laura Stoler. *Tensions of Empire: Colonial Cultures in a Bourgeois World.* Berkeley: University of California Press, 1997.</a>
+<li><a href="https://clnugentmclean.github.io/assets/comps/cooper-stoler-tensions.pdf">Cooper, Frederick and Ann Laura Stoler. <em>Tensions of Empire: Colonial Cultures in a Bourgeois World.</em> Berkeley: University of California Press, 1997.</a>
 </li>
-* [Darwin, John. *After Tamerlane: The Rise and Fall of Global Empires, 1405-2000.* New York: Bloomsbury Press, 2009.](https://clnugentmclean.github.io/assets/comps/darwin-after.pdf)
-* [Driver, Felix. *Imperial Cities: Landscape, Display and Identity.* New York: Manchester University Press, 2003.](https://clnugentmclean.github.io/assets/comps/driver-gilbert-imperial.pdf)
+<li><a href="https://clnugentmclean.github.io/assets/comps/darwin-after.pdf">Darwin, John. <em>After Tamerlane: The Rise and Fall of Global Empires, 1405-2000.</em> New York: Bloomsbury Press, 2009.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/driver-gilbert-imperial.pdf">Driver, Felix. *Imperial Cities: Landscape, Display and Identity.* New York: Manchester University Press, 2003.</a></li>
 * [Fieldhouse, D. *Western Imperialism in the Middle East 1914-1958.* New York: Oxford University Press, 2006.](https://clnugentmclean.github.io/assets/comps/fieldhouse-western.pdf)
 * [Karsh, Efraim. *Islamic Imperialism: A History.* New Haven: Yale University Press, 2006.](https://clnugentmclean.github.io/assets/comps/karsh-islamic.pdf)
 * [Lenin, Vladimir. *Imperialism, the Highest Stage of Capitalism: A Popular Outline.* New York: International Publishers, 1939.](https://clnugentmclean.github.io/assets/comps/lenin-imperialism.pdf)
