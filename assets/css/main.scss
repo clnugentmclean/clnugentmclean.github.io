@@ -3,6 +3,10 @@
 $link-color: #5A1846; 
 $link-color-hover: #5A1846; 
 
+$sans-serif: "Georgia", "Times New Roman", serif; // body text
+$sans-serif-narrow: $sans-serif;
+$monospace: "SFMono-Regular", Consolas, monospace; // code blocks
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
