@@ -1,0 +1,33 @@
+---
+---
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+.dropdown {
+  position: relative;
+}
+.dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #fff;
+  border: 1px solid #ddd;
+  list-style: none;
+  padding: 0.5em 0;
+  margin: 0;
+  min-width: 180px;
+  z-index: 10;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.dropdown-menu li a {
+  display: block;
+  padding: 0.5em 1em;
+  white-space: nowrap;
+}
+.greedy-nav,
+.visible-links {
+  overflow: visible !important;
+}
