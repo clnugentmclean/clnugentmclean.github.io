@@ -50,3 +50,10 @@
 :target {
   scroll-margin-top: 90px; /* 80px header + ~10px breathing room */
 }
+
+.masthead,
+.masthead__inner-wrap,
+.masthead__menu,
+#site-nav {
+  background-color: #E7CEB5 !important;
+}

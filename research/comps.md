@@ -82,12 +82,14 @@ To search through the summaries and reading lists, use the text box above to sea
 <h2>Theory and Empire</h2>
 <li><a href="https://clnugentmclean.github.io/assets/comps/adas-prophets.pdf">Adas, Michael. <em>Prophets of Rebellion: Millenarian Protest Movements against the European Colonial Order.</em> Cambridge: Cambridge University Press, 1987.</a>
 </li>
-<li><a href="ttps://clnugentmclean.github.io/assets/comps/anderson-imagined.pdf">Anderson, Benedict. *Imagined Communities: Reflections on the Origin and Spread of Nationalism.* New York: Verso, 2016.</a>
+<li><a href="ttps://clnugentmclean.github.io/assets/comps/anderson-imagined.pdf">Anderson, Benedict. <em>Imagined Communities: Reflections on the Origin and Spread of Nationalism.</em> New York: Verso, 2016.</a>
 </li>
-<li><a href="https://clnugentmclean.github.io/assets/comps/belmessous-empire.pdf">Belmessous, Saliha. *Empire by Treaty: Negotiating European Expansion.* New York: Oxford University Press, 2015.</a></li>
-* [Burbank, Jane, and Frederick Cooper. *Empires in World History: Power and the Politics of Difference.* Princeton: Princeton University Press, 2011.](https://clnugentmclean.github.io/assets/comps/burbank-cooper-empires.pdf)
-* [Bush, Barbara. *Imperialism and Postcolonialism.* London: Pearson, 2006.](https://clnugentmclean.github.io/assets/comps/bush-imperialism.pdf)
-* [Cooper, Frederick. *Colonialism in Question: Theory, Knowledge, History.* Berkeley: University of California Press, 2007.](https://clnugentmclean.github.io/assets/comps/cooper-colonialism.pdf)
+<li><a href="https://clnugentmclean.github.io/assets/comps/belmessous-empire.pdf">Belmessous, Saliha. <em>Empire by Treaty: Negotiating European Expansion.</em> New York: Oxford University Press, 2015.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/burbank-cooper-empires.pdf">Burbank, Jane, and Frederick Cooper. <em>Empires in World History: Power and the Politics of Difference.</em> Princeton: Princeton University Press, 2011.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/bush-imperialism.pdf">Bush, Barbara. <em>Imperialism and Postcolonialism.</em> London: Pearson, 2006.</a></li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/cooper-colonialism.pdf">Cooper, Frederick. *Colonialism in Question: Theory, Knowledge, History.* Berkeley: University of California Press, 2007.</a></li>
 * [Cooper, Frederick and Ann Laura Stoler. *Tensions of Empire: Colonial Cultures in a Bourgeois World.* Berkeley: University of California Press, 1997.](https://clnugentmclean.github.io/assets/comps/cooper-stoler-tensions.pdf)
 * [Darwin, John. *After Tamerlane: The Rise and Fall of Global Empires, 1405-2000.* New York: Bloomsbury Press, 2009.](https://clnugentmclean.github.io/assets/comps/darwin-after.pdf)
 * [Driver, Felix. *Imperial Cities: Landscape, Display and Identity.* New York: Manchester University Press, 2003.](https://clnugentmclean.github.io/assets/comps/driver-gilbert-imperial.pdf)
