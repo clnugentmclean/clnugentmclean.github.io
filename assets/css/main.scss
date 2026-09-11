@@ -41,11 +41,11 @@
   z-index: 9999;
 }
 
-/* Push page content down so it isn't hidden under the fixed header */
 .initial-content,
 .page {
-  padding-top: 90px; /* match your header's actual height */
+  padding-top: 80px; /* was 90px, now matches actual header height */
 }
+
 :target {
-  scroll-margin-top: 100px; /* header height + a little breathing room */
+  scroll-margin-top: 90px; /* 80px header + ~10px breathing room */
 }

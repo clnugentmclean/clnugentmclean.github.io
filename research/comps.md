@@ -45,10 +45,14 @@ To search through the summaries and reading lists, use the text box above to sea
 <li>
 <a href="https://clnugentmclean.github.io/assets/comps/ho-graves.pdf">Ho, Engseng. <em>The Graves of Tarim: Genealogy and Mobility across the Indian Ocean.</em> Berkeley: University of California Press, 2006.</a>
 </li>
-<em> [Hodgson, Marshall. <em>Re-thinking World History: Essays on Europe, Islam and World History.</em> New York: Cambridge University Press, 1993.](https://clnugentmclean.github.io/assets/comps/hodgson-rethinking.pdf)
-<em> [Lake, Marilyn, and Henry Reynolds. <em>Drawing the Global Colour Line: White Men's Countries and the International Challenge of Racial Equality.</em> New York: Cambridge University Press, 2008.](https://clnugentmclean.github.io/assets/comps/lake-reynolds-drawing.pdf)
-<em> [Landes, David. <em>The Wealth and Poverty of Nations: Why Some are So Rich and Some So Poor.</em> New York: W.W. Norton, 1998.](https://clnugentmclean.github.io/assets/comps/landes-wealth.pdf)
-<em> [Manning, Patrick. <em>Navigating World History: Historians Create a Global Past.</em> New York: Palgrave MacMillan, 2003.](https://clnugentmclean.github.io/assets/comps/manning-navigating.pdf)
+<li><a href="https://clnugentmclean.github.io/assets/comps/hodgson-rethinking.pdf">Hodgson, Marshall. <em>Re-thinking World History: Essays on Europe, Islam and World History.</em> New York: Cambridge University Press, 1993.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/lake-reynolds-drawing.pdf">Lake, Marilyn, and Henry Reynolds. <em>Drawing the Global Colour Line: White Men's Countries and the International Challenge of Racial Equality.</em> New York: Cambridge University Press, 2008.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/landes-wealth.pdf">Landes, David. <em>The Wealth and Poverty of Nations: Why Some are So Rich and Some So Poor.</em> New York: W.W. Norton, 1998.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/manning-navigating.pdf">Manning, Patrick. <em>Navigating World History: Historians Create a Global Past.</em> New York: Palgrave MacMillan, 2003.</a>
+</li>
 <em> [McNeill, John. <em>Something New Under the Sun: An Environmental History of the Twentieth Century World.</em> New York: W. W. Norton, 2001.](https://clnugentmclean.github.io/assets/comps/mcneil-new-sun.pdf)
 <em> [McNeill, John R. <em>Mosquito Empires: Ecology and War in the Great Caribbean, 1620–1914.</em> New York: Cambridge University Press, 2003.](https://clnugentmclean.github.io/assets/comps/mcneil-mosquitos.pdf)
 <em> [McNeill, William. <em>The Rise of the West: A History of the Human Community.</em> Honolulu: University of Hawaii, 1990.](https://clnugentmclean.github.io/assets/comps/mcneill-rise-west.pdf)
