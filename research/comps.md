@@ -89,8 +89,10 @@ To search through the summaries and reading lists, use the text box above to sea
 <li><a href="https://clnugentmclean.github.io/assets/comps/burbank-cooper-empires.pdf">Burbank, Jane, and Frederick Cooper. <em>Empires in World History: Power and the Politics of Difference.</em> Princeton: Princeton University Press, 2011.</a>
 </li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/bush-imperialism.pdf">Bush, Barbara. <em>Imperialism and Postcolonialism.</em> London: Pearson, 2006.</a></li>
-<li><a href="https://clnugentmclean.github.io/assets/comps/cooper-colonialism.pdf">Cooper, Frederick. *Colonialism in Question: Theory, Knowledge, History.* Berkeley: University of California Press, 2007.</a></li>
-* [Cooper, Frederick and Ann Laura Stoler. *Tensions of Empire: Colonial Cultures in a Bourgeois World.* Berkeley: University of California Press, 1997.](https://clnugentmclean.github.io/assets/comps/cooper-stoler-tensions.pdf)
+<li><a href="https://clnugentmclean.github.io/assets/comps/cooper-colonialism.pdf">Cooper, Frederick. <em>Colonialism in Question: Theory, Knowledge, History.</em> Berkeley: University of California Press, 2007.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/cooper-stoler-tensions.pdf">Cooper, Frederick and Ann Laura Stoler. *Tensions of Empire: Colonial Cultures in a Bourgeois World.* Berkeley: University of California Press, 1997.</a>
+</li>
 * [Darwin, John. *After Tamerlane: The Rise and Fall of Global Empires, 1405-2000.* New York: Bloomsbury Press, 2009.](https://clnugentmclean.github.io/assets/comps/darwin-after.pdf)
 * [Driver, Felix. *Imperial Cities: Landscape, Display and Identity.* New York: Manchester University Press, 2003.](https://clnugentmclean.github.io/assets/comps/driver-gilbert-imperial.pdf)
 * [Fieldhouse, D. *Western Imperialism in the Middle East 1914-1958.* New York: Oxford University Press, 2006.](https://clnugentmclean.github.io/assets/comps/fieldhouse-western.pdf)
