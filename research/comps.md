@@ -20,6 +20,7 @@ To search through the summaries and reading lists, use the text box above to sea
 <details open>
 <summary><strong>Modern Britain, the British Empire, & World History</strong> (click to collapse)</summary>
 <ul id="primary-list">
+<h2>World History</h2>
 <li><a href="https://clnugentmclean.github.io/assets/comps/abu-lughod-european.pdf">Abu-Ludhod, Janet. <em>Before European Hegemony: The World System, 1250–1350.</em> New York: Oxford University Press, 1989.</a>
 </li>
 <li>
@@ -78,6 +79,28 @@ To search through the summaries and reading lists, use the text box above to sea
 <li><a href="https://clnugentmclean.github.io/assets/comps/wallerstein-modern.pdf">Wallerstein, Immanuel. <em>Modern World System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century.</em> Berkeley: University of California Press, 2011.</a>
 </li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/wright-africa.pdf">Wright, Donald. <em>The World and a Very Small Place in Africa: A History of Globalization in Niumi, the Gambia.</em> Armonk: M. E. Sharpe, 2010.</a></li>
+<h2>Theory and Empire</h2>
+<li><a href="https://clnugentmclean.github.io/assets/comps/adas-prophets.pdf">Adas, Michael. <em>Prophets of Rebellion: Millenarian Protest Movements against the European Colonial Order.</em> Cambridge: Cambridge University Press, 1987.</a>
+</li>
+<li><a href="ttps://clnugentmclean.github.io/assets/comps/anderson-imagined.pdf">Anderson, Benedict. *Imagined Communities: Reflections on the Origin and Spread of Nationalism.* New York: Verso, 2016.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/belmessous-empire.pdf">Belmessous, Saliha. *Empire by Treaty: Negotiating European Expansion.* New York: Oxford University Press, 2015.</a></li>
+* [Burbank, Jane, and Frederick Cooper. *Empires in World History: Power and the Politics of Difference.* Princeton: Princeton University Press, 2011.](https://clnugentmclean.github.io/assets/comps/burbank-cooper-empires.pdf)
+* [Bush, Barbara. *Imperialism and Postcolonialism.* London: Pearson, 2006.](https://clnugentmclean.github.io/assets/comps/bush-imperialism.pdf)
+* [Cooper, Frederick. *Colonialism in Question: Theory, Knowledge, History.* Berkeley: University of California Press, 2007.](https://clnugentmclean.github.io/assets/comps/cooper-colonialism.pdf)
+* [Cooper, Frederick and Ann Laura Stoler. *Tensions of Empire: Colonial Cultures in a Bourgeois World.* Berkeley: University of California Press, 1997.](https://clnugentmclean.github.io/assets/comps/cooper-stoler-tensions.pdf)
+* [Darwin, John. *After Tamerlane: The Rise and Fall of Global Empires, 1405-2000.* New York: Bloomsbury Press, 2009.](https://clnugentmclean.github.io/assets/comps/darwin-after.pdf)
+* [Driver, Felix. *Imperial Cities: Landscape, Display and Identity.* New York: Manchester University Press, 2003.](https://clnugentmclean.github.io/assets/comps/driver-gilbert-imperial.pdf)
+* [Fieldhouse, D. *Western Imperialism in the Middle East 1914-1958.* New York: Oxford University Press, 2006.](https://clnugentmclean.github.io/assets/comps/fieldhouse-western.pdf)
+* [Karsh, Efraim. *Islamic Imperialism: A History.* New Haven: Yale University Press, 2006.](https://clnugentmclean.github.io/assets/comps/karsh-islamic.pdf)
+* [Lenin, Vladimir. *Imperialism, the Highest Stage of Capitalism: A Popular Outline.* New York: International Publishers, 1939.](https://clnugentmclean.github.io/assets/comps/lenin-imperialism.pdf)
+* [Osterhammel, Jürgen. *Colonialism: A Theoretical Overview.* Princeton: Ian Randle Publishers, 1997.](https://clnugentmclean.github.io/assets/comps/osterhammel-colonialism.pdf)
+* [Rice, Laura. *Of Irony and Empire: Islam, the West, and the Transcultural Invention of Africa.* Albany: State University of New York Press, 2007.](https://clnugentmclean.github.io/assets/comps/rice-irony.pdf)
+* [Said, Edward W. *Orientalism.* New York: Vintage, 1979.](https://clnugentmclean.github.io/assets/comps/said-orientalism.pdf)
+* [Scott, James C. *Domination and the Arts of Resistance: Hidden Transcripts.* New Haven: Yale University Press, 1990.](https://clnugentmclean.github.io/assets/comps/scott-domination.pdf)
+* [Scott, James C. *Weapons of the Weak: Everyday Forms of Peasant Resistance.* New Haven: Yale University Press, 1987.](https://clnugentmclean.github.io/assets/comps/scott-weapons.pdf)
+* [Streets-Salter, Heather and Trevor Getz. *Empires and Colonies in the Modern World: A Global Perspective.* New York: Oxford University Press, 2015.](https://clnugentmclean.github.io/assets/comps/streets-salter-getz-empires.pdf)
+* [Wolfe, Patrick. *Traces of History: Elementary Structures of Race.* New York: Verso, 2016.](https://clnugentmclean.github.io/assets/comps/wolfe-traces.pdf)
 </ul>
 </details>
 
