@@ -13,7 +13,8 @@ main:
         url: /research/projects/
 
   - title: "CV"
-    url: /CV/
+    url: https://github.com/clnugentmclean/clnugentmclean.github.io/blob/main/assets/images/cv.pdf
+    target: _blank
   
 
     
