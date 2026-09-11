@@ -53,14 +53,22 @@ To search through the summaries and reading lists, use the text box above to sea
 </li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/manning-navigating.pdf">Manning, Patrick. <em>Navigating World History: Historians Create a Global Past.</em> New York: Palgrave MacMillan, 2003.</a>
 </li>
-<em> [McNeill, John. <em>Something New Under the Sun: An Environmental History of the Twentieth Century World.</em> New York: W. W. Norton, 2001.](https://clnugentmclean.github.io/assets/comps/mcneil-new-sun.pdf)
-<em> [McNeill, John R. <em>Mosquito Empires: Ecology and War in the Great Caribbean, 1620–1914.</em> New York: Cambridge University Press, 2003.](https://clnugentmclean.github.io/assets/comps/mcneil-mosquitos.pdf)
-<em> [McNeill, William. <em>The Rise of the West: A History of the Human Community.</em> Honolulu: University of Hawaii, 1990.](https://clnugentmclean.github.io/assets/comps/mcneill-rise-west.pdf)
-<em> [Mintz, Sidney. <em>Sweetness and Power: The Place of Sugar in Modern History.</em> New York: Viking Penguin, 1985.](https://clnugentmclean.github.io/assets/comps/mintz-sweetness.pdf)
-<em> [Moses, Dirk. A. <em>Empire, Colony, Genocide: Conquest, Occupation, and Subaltern Resistance in World History.</em> New York: Berghahn Books, 2010.](https://clnugentmclean.github.io/assets/comps/moses-empire.pdf)
-<em> [Northrup, Douglas. <em>A Companion to World History.</em> Hoboken: Wiley Blackwell, 2012.](https://clnugentmclean.github.io/assets/comps/northrup-companion.pdf)
-<em> [Parthasarathi, Prasannan. <em>Why Europe Grew Rich and Asia Did Not: Global Economic Divergence, 1600–1850.</em> Cambridge: Cambridge University Press, 2011.](https://clnugentmclean.github.io/assets/comps/parthasarathi-divergence.pdf)
-<em> [Pang, Alex Soojung-Kim. <em>Empire and the Sun: Victorian Solar Eclipse Expeditions.</em> Stanford: Stanford University Press, 2002.](https://clnugentmclean.github.io/assets/comps/pang-sun.pdf)
+<li><a href="https://clnugentmclean.github.io/assets/comps/mcneil-new-sun.pdf">McNeill, John. <em>Something New Under the Sun: An Environmental History of the Twentieth Century World.</em> New York: W. W. Norton, 2001.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/mcneil-mosquitos.pdf">McNeill, John R. <em>Mosquito Empires: Ecology and War in the Great Caribbean, 1620–1914.</em> New York: Cambridge University Press, 2003.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/mcneill-rise-west.pdf">McNeill, William. <em>The Rise of the West: A History of the Human Community.</em> Honolulu: University of Hawaii, 1990.</a>
+</li>
+<li><a href=" https://clnugentmclean.github.io/assets/comps/mintz-sweetness.pdf">Mintz, Sidney. <em>Sweetness and Power: The Place of Sugar in Modern History.</em> New York: Viking Penguin, 1985.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/moses-empire.pdf">Moses, Dirk. A. <em>Empire, Colony, Genocide: Conquest, Occupation, and Subaltern Resistance in World History.</em> New York: Berghahn Books, 2010.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/northrup-companion.pdf">Northrup, Douglas. <em>A Companion to World History.</em> Hoboken: Wiley Blackwell, 2012.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/parthasarathi-divergence.pdf">Parthasarathi, Prasannan. <em>Why Europe Grew Rich and Asia Did Not: Global Economic Divergence, 1600–1850.</em> Cambridge: Cambridge University Press, 2011.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/pang-sun.pdf">Pang, Alex Soojung-Kim. <em>Empire and the Sun: Victorian Solar Eclipse Expeditions.</em> Stanford: Stanford University Press, 2002.</a>
+</li>
 <em> [Pearson, M. N. <em>The Indian Ocean.</em> New York: Routledge, 2003.](https://clnugentmclean.github.io/assets/comps/pearson-indian.pdf)
 <em> [Pomeranz, Kenneth. <em>The Great Divergence: China, Europe, and the Making of the Modern World Economy.</em> Princeton: Princeton University Press, 2001.](https://clnugentmclean.github.io/assets/comps/pomeranz-divergence.pdf)
 <em> [Streets-Salter, Heather. <em>World War One in Southeast Asia: Colonialism and Anticolonialism in an Era of Global Conflict.</em> New York: Oxford University Press, 2017.](https://clnugentmclean.github.io/assets/comps/salter-ww1.pdf)
