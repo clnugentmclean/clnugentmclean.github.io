@@ -1,0 +1,18 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Research"
+    children:
+      - title: "Dissertation"
+        url: https://clnugentmclean.github.io/dissertation/
+        target: _blank
+      - title: "Comprehensive Exams"
+        url: /research/comps/
+      - title: "Projects"
+        url: /research/projects/
+
+

@@ -1,0 +1,9 @@
+title: "Colleen L. Nugent McLean"
+description: "Exploring anti-Muslim racism in The Times through word vector models"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
