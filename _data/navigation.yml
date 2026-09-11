@@ -12,9 +12,8 @@ main:
       - title: "Projects"
         url: /research/projects/
 
-  - title: "CV"
-    url: https://github.com/clnugentmclean/clnugentmclean.github.io/blob/main/assets/images/cv.pdf
-    target: _blank
+  - title: "Teaching"
+    url: /teaching/
   
 
     
