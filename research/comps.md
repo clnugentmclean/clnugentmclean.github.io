@@ -69,11 +69,15 @@ To search through the summaries and reading lists, use the text box above to sea
 </li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/pang-sun.pdf">Pang, Alex Soojung-Kim. <em>Empire and the Sun: Victorian Solar Eclipse Expeditions.</em> Stanford: Stanford University Press, 2002.</a>
 </li>
-<em> [Pearson, M. N. <em>The Indian Ocean.</em> New York: Routledge, 2003.](https://clnugentmclean.github.io/assets/comps/pearson-indian.pdf)
-<em> [Pomeranz, Kenneth. <em>The Great Divergence: China, Europe, and the Making of the Modern World Economy.</em> Princeton: Princeton University Press, 2001.](https://clnugentmclean.github.io/assets/comps/pomeranz-divergence.pdf)
-<em> [Streets-Salter, Heather. <em>World War One in Southeast Asia: Colonialism and Anticolonialism in an Era of Global Conflict.</em> New York: Oxford University Press, 2017.](https://clnugentmclean.github.io/assets/comps/salter-ww1.pdf)
-<em> [Wallerstein, Immanuel. <em>Modern World System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century.</em> Berkeley: University of California Press, 2011.](https://clnugentmclean.github.io/assets/comps/wallerstein-modern.pdf)
-<em> [Wright, Donald. <em>The World and a Very Small Place in Africa: A History of Globalization in Niumi, the Gambia.</em> Armonk: M. E. Sharpe, 2010.](https://clnugentmclean.github.io/assets/comps/wright-africa.pdf)
+<li><a href="https://clnugentmclean.github.io/assets/comps/pearson-indian.pdf">Pearson, M. N. <em>The Indian Ocean.</em> New York: Routledge, 2003.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/pomeranz-divergence.pdf">Pomeranz, Kenneth. <em>The Great Divergence: China, Europe, and the Making of the Modern World Economy.</em> Princeton: Princeton University Press, 2001.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/salter-ww1.pdf">Streets-Salter, Heather. <em>World War One in Southeast Asia: Colonialism and Anticolonialism in an Era of Global Conflict.</em> New York: Oxford University Press, 2017.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/wallerstein-modern.pdf">Wallerstein, Immanuel. <em>Modern World System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century.</em> Berkeley: University of California Press, 2011.</a>
+</li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/wright-africa.pdf">Wright, Donald. <em>The World and a Very Small Place in Africa: A History of Globalization in Niumi, the Gambia.</em> Armonk: M. E. Sharpe, 2010.</a></li>
 </ul>
 </details>
 
