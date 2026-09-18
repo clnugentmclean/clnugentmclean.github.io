@@ -9,7 +9,7 @@ Ibn Battuta set off from Tangier on a hajj in 1325, and did not return home for 
 ---
 # StoryMap
 
-<iframe src="https://uploads.knightlab.com/storymapjs/d1ee5d64be1b87b46201fa01d2973aa8/practice/index.html" frameborder="0" width="100%" height="800"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/d1ee5d64be1b87b46201fa01d2973aa8/practice/index.html" frameborder="0" width="100%"></iframe>
 
 ---
 # Process
