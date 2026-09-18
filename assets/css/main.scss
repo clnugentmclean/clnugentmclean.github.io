@@ -135,11 +135,3 @@ $monospace: "SFMono-Regular", Consolas, monospace; // code blocks
 blockquote {
   border-left: 4px solid #5A1846 !important; /* match your plum accent */
 }
-
-.viewport-embed {
-  width: 100%;
-  height: calc(100vh - 220px);
-  min-height: 500px;
-  border: none;
-  display: block;
-}
