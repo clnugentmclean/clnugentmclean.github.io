@@ -2,7 +2,7 @@ title: "Colleen L. Nugent McLean"
 description: "Digital Historian in Boston"
 url: "https://clnugentmclean.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "catppuccin_mocha"
 
 plugins:
   - jekyll-remote-theme
