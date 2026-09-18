@@ -131,3 +131,7 @@ $monospace: "SFMono-Regular", Consolas, monospace; // code blocks
   font-size: 0.85em;
   color: #6d4c34; /* swap to match your palette */
 }
+
+blockquote {
+  border-left: 4px solid #5A1846 !important; /* match your plum accent */
+}
