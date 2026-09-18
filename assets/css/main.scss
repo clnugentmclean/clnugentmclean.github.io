@@ -102,19 +102,6 @@ body {
   color: #ffffff !important; /* slightly brighter on hover for feedback */
 }
 
-.page__footer {
-  background-color: #E9D6BC; /* or whatever color you want */
-}
-
-.page__footer,
-.page__footer a {
-  color: #181A18 !important; /* soft white text, matches masthead */
-}
-
-.page__footer a:hover {
-  color: #ffffff !important;
-}
-
 .greedy-nav .visible-links a::before {
   background: #5A1846 !important; /* or whatever accent you want here */
 }
