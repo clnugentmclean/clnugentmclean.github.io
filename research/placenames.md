@@ -5,7 +5,10 @@ permalink: /research/projects/placenames/
 ---
 Maps have long been used as a tool of colonialism, dividing up the world and demarcating arbitrary borders. Maps have also been used by the colonial apparatus in the process of sustaining settler colonial geographies in North America. This can be seen for example in the mid-seventeenth century map of Massachusetts (below) that uses cartography to justify the new colonial borders. In this context, maps have been used as evidence of the ‘firsting’ and ‘lasting’ processes described by Jean O’Brien. Maps can demonstrate the apparent ‘lack’ of Indigenous people left, in what has been wielded as ‘proof’ that there are no longer any ‘real’ Indigenous people left. Much like the local literature explored by Jean M. O’Brien, maps were used in the process of removing Indigenous people from their ancestral lands. 2 Maps have been used, alongside narratives, to demonstrate the ‘truth’ of the myth of the vanishing/disappeared Native. Cartography can be used to write Indigenous communities out of existence, in the sense that their absence from dominant mapping regimes constitutes an erasure. 
 
-A 1665 map commissioned by the government of Massachusetts to justify the colony’s northern and southern boundaries.
+<figure style="width: 45%" class="align-left">
+  <img src="/assets/images/1665-map.jpg" alt="1665 Map of Martha's Vineyard">
+  <figcaption>A 1665 map commissioned by the government of Massachusetts to justify the colony’s northern and southern boundaries.</figcaption>
+</figure>
 
 Cartographies of empire have been instrumental in the dispossession of Indigenous people. Truly decolonial mapping must go beyond anti-colonial mapping in seeking to reclaim plant-based, ancestral, Indigenous knowledge while also enacting the contemporary world-making practices of Indigenous and colonized people in the present. In fact, some of the most effective forms of decolonial mapping entails the creation of maps that are only intended to be seen by Indigenous people. A decolonial geography focuses on the reclamation of Indigenous ontologies of place that predate the colonial cartographic framing of Indigenous lands. Even some maps projects that strive to contest dominant understandings can end up reproducing the settler colonial project. This can be seen in projects that adhere to the official borders of the United States government, which ends up normalizing the colonial boundaries of space. This project seeks to consider the complications inherent in making maps, and to provide maps that better reveal the Indigeneity of the landscape of Massachusetts.
 
@@ -13,8 +16,10 @@ Cartographies of empire have been instrumental in the dispossession of Indigenou
 
 In particular, this project seeks to explore the process of ‘inhabiting Indian-ness’ described by Natchee Blu Barnd in his book Native Space: Geographic Strategies to Unsettle Settler Colonialism. Barnd characterizes settler colonialism as “fundamentally defined by its spatial organization and outcomes,” making maps an important tool in contesting ongoing settler colonialism. He sees ‘inhabiting’ as one of the powerful and mundane ways that spaces are enacted, justified, and sustained; inhabiting is rooted in possession of both land and of Indian-ness. Within the framework of settler colonialism, inhabiting is tied to the legal construct that justified initial European presence in North America. In particular, the use of Indigenous place names for predominantly white areas represents an ongoing method for sustaining settler geographies and for ‘proving’ the myth of the disappearing/vanished native. This is not to say that Indigenous communities are not themselves interested in the construction of Indian-ness for spatial markers. However, Indigenous communities imbue spatial markers with Indian-ness as a means of asserting their identity and their relationship to place.
 
-
-Gay Head Cliffs in Martha’s Vineyard. Ancestral lands of the Aquinnah-Wampanoag Tribe.
+<figure style="width: 45%" class="align-right">
+  <img src="/assets/images/gay-head.jpg" alt="Gay Head Cliffs in Martha's Vineyard">
+  <figcaption>Gay Head Cliffs in Martha's Vineyard. Ancestral lands of the Aquinnah-Wampanoag Tribe.</figcaption>
+</figure>
 
 For the purposes of this project, I am interested in comparing locations on the island of Martha’s Vineyard that all inhabit Indian-ness but for differing purposes. Specifically, I am interested in the cases of Chappaquiddick Island (ancestral home of the Chappaquiddick Wampanoag who have been striving to get their land back since the mid-nineteenth century) and Aquinnah (the ancestral home of the Aquinnah Wampanoag who maintain some of their ancestral lands and are one of two federally recognized branches of the Wampanoag Nation). I also include a map of the entire state of Massachusetts with place names that are Indigenous in origin to demonstrate the frequency of these place names in predominantly white spaces, however this is intended to be more exploratory than the case study of Martha’s Vineyard.
 
@@ -36,13 +41,25 @@ To explore this map, click on a point to see the location’s name. The points a
 
 The island of Martha’s Vineyard stands as a good case study because its boundaries are self-contained and it is a place with both predominantly white spaces with Indigenous place names and the use of an Indigenous place name by and for an Indigenous space. There are a variety of places on the island that fit the criteria of being predominantly white spaces using Indigenous place names, but for the purpose of this case study I will be comparing Chappaquiddick Island with Aquinnah. Aquinnah, which was formerly known as Gay Head, is the site of the Tribal Council for the Wampanoag Tribe of Aquinnah. Chappaquiddick Island is the ancestral home of the Chappaquiddick Wampanoag tribe, but the members of this tribe are no longer living on Chappaquiddick Island; many live across the water on the island of Martha’s Vineyard.
 
-1775 Map of Martha’s Vineyard
+<figure style="width: 45%" class="align-left">
+  <img src="/assets/images/1775-map.jpg" alt="1775 Map of Martha's Vineyard">
+  <figcaption>1775 Map of Martha’s Vineyard.</figcaption>
+</figure>
 
 According to the 2010 census, there were 179 people living on the island with a racial makeup of 93.3% white, 1.7% African American, 0.6% Asian, and 0.6% Native American. This contrasts with the demographics of Aquinnah, which according to the same census had 344 people living in the town with a racial makeup of 53.49% white, 0.29% African American, 1.16% Latine, and 36.63% Native American. In order to better discuss the island of Martha’s Vineyard, it is imperative to understand its history in regards to the Wampanoag tribe.
 
 The ancestors of the Wampanoag people have lived for at least 10,000 years on the island of Noepe (Martha’s Vineyard), pursuing a traditional economy based on fishing and agriculture. The Wampanoag Nation once included all of Southeastern Massachusetts and Eastern Rhode Island, made up of more than 67 distinct tribal communities, including the Wampanoag of Gay Head (Aquinnah). Today there are only six visible tribal communities; the Aquinnah and Mashpee Wampanoag are the only Wampanoag tribal communities who maintain physical and cultural presence on their ancestral homelands. The Aquinnah and Mashpee Wampanoag are also the only two federally recognized tribes in Massachusetts. At the time of the first encounter between Europeans and the Wampanoag of the island in 1641, at least 3,000 Wampanoag people lived on the island. By 1645, two epidemics had killed almost half of the Wampanoag people on the island. Today the Wampanoag tribe of Aquinnah counts 901 members, with around 300 living on the island of Martha’s Vineyard. While the members of the Aquinnah tribe of the Wampanoag are able to exert a physical presence on their ancestral home lands, the Chappaquiddick tribe of the Wampanoag are not able to do the same. The Chappaquiddick tribe had two reservations on Chappaquiddick island until the passage of the Massachusetts Indian Enfranchisement Act in 1869. With the passing of the Massachusetts Enfranchisement Act of 1869, the reservation lands were allotted to Chappaquiddick Wampanoag individuals and they were absorbed by the town of Edgartown.
 
-1844 map and 1871 map
+<div class="image-row">
+  <figure>
+    <img src="/assets/images/1844-map.jpg" alt="1844 Map of Martha's Vineyard">
+    <figcaption>1844 Map of Martha's Vineyard. The area of Gay Head is also marked as "Indian Lands."</figcaption>
+  </figure>
+  <figure>
+    <img src="/assets/images/1871-map.jpg" alt="1871 Map of Martha's Vineyard">
+    <figcaption>1871 Map of Martha's Vineyard. The ancestral lands of the Aquinnah-Wampanoag are still demarcated as 'Indian Lands.' This is the last historic map of Martha's Vineyard that includes this place acknowledgement.</figcaption>
+  </figure>
+</div>
 
 For both the Chappaquiddick and Aquinnah, the Massachusetts Enfranchisement Act of 1869 served to incorporate ancestral lands into the towns of Edgartown and Gay Head respectively. This can be seen in the above historical maps that demarcate the area of Gay Head as Indian Lands, until the passage of the act. The 1871 map of Martha’s Vineyard is the last historic map that acknowledges the presence of Indigenous people on the island. The Aquinnah Indigneous people played a large role in the town government of Gay Head from 1870 through the 1970s, making the alienation caused by the Act to be felt less strongly than the Chappaquiddick. In 1972 in response to the growing potentiality for encroachment on Tribal Common Lands, the Wampanoag Tribal Council of Gay Head, Inc. (WTCGH) was formed to promote self-determination among Wampanoag people, to ensure preservation and continuation of Wampanoag history and culture, to achieve Federal recognition for the Tribe, and to seek the return of Tribal lands to the Wampanoag people. This council, along with the Chappaquiddick and four other Wampanoag tribes, filed a joint suit in order to regain land from the federal government. This suit affirmed the claim that Indian land had become federal land, meaning property could not be exchanged without federal consent. In 1987 the Tribal Council of Gay Head received federal recognition from the Bureau of Indian Affairs and received 485 acres of land. These 485 acres of land are represented on the digital map above by the purple polygons. The Aquinnah Tribe of Gay Head and the Mashpee were the only tribes who succeeded in gaining federal recognition. 
 
@@ -52,7 +69,11 @@ Although the Wampanoag Tribe of Gay Head received federal recognition and some o
 
 The use of Indian-ness to describe the area of Aquinnah differs radically from the use of Indian-ness for Chappaquiddick Island. Aquinnah is used to assert the Indian-ness of the landscape and emphasize the continued importance of the Wampanoag tribe to the area.
 
-Members of the Chappaquiddick Wampanoag Tribe march for recognition, late 1970s.
+<figure style="width: 45%" class="align-left">
+  <img src="/assets/images/chappaquiddick.jpg" alt="Members of the Chappaquiddick Wampanoag Tribe, late 1970s">
+  <figcaption>Members of the Chappaquiddick Wampanoag Tribe march for recognition, late 1970s.</figcaption>
+</figure>
+
 
 In the map, it appears as though official United States place names of Indigenous origin seem to be relegated to the periphery of the island. The center of the island is where the airport is located, and it seems as though the more built up areas are also along the periphery. There is also little overlap between the traditional Indigenous names and the U.S. place names using Indigenous words, highlighting the process of Inhabiting Indian-ness for justification of predominantly white settlement of land described by Barnd. 12 Another way to put it is the abundant use of Indigenous words to describe places (that are not the actual Indigenous names of these locations) represents white spaces inhabiting Indian-ness. One notes the spelling differences between the Indigenous spelling of “Tchepiaquidenet” and the settler spelling of “Chappaquiddick,” which is indicative of the way Indigenous forms of knowing are twisted to fit into the settler colonial project. The map is a visual accompaniment to this discussion of how the use of Indigenous place names can both reflect and contest the settler colonial landscape of the United States.
 

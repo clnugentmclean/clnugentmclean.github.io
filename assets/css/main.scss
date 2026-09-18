@@ -107,3 +107,27 @@ $monospace: "SFMono-Regular", Consolas, monospace; // code blocks
 .oval-portrait-clear {
   clear: both;
 }
+
+.image-row {
+  display: flex;
+  gap: 1.5em;
+  margin: 2em 0;
+  flex-wrap: wrap; /* lets images stack on narrow/mobile screens instead of squishing */
+}
+
+.image-row figure {
+  flex: 1 1 45%;
+  margin: 0;
+}
+
+.image-row img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.image-row figcaption {
+  margin-top: 0.5em;
+  font-size: 0.85em;
+  color: #6d4c34; /* swap to match your palette */
+}
