@@ -81,7 +81,7 @@ body {
 }
 
 .masthead .site-title {
-  color: #ffffff !important;
+  color: #3A434A !important;
   font-family: $sans-serif;
   font-weight: 700;
   text-transform: uppercase;
@@ -89,7 +89,7 @@ body {
 }
 
 .masthead__menu-item a {
-  color: #ffffff !important;
+  color: #3A434A !important;
   font-family: $sans-serif;
   font-weight: 300;
   text-transform: uppercase;
@@ -99,7 +99,7 @@ body {
 
 .masthead .site-title:hover,
 .masthead__menu-item a:hover {
-  color: #ffffff !important; /* slightly brighter on hover for feedback */
+  color: #3A434A !important; /* slightly brighter on hover for feedback */
 }
 
 .greedy-nav .visible-links a::before {
@@ -147,4 +147,17 @@ body {
 
 blockquote {
   border-left: 4px solid #5A1846 !important; /* match your plum accent */
+}
+
+.page__footer {
+  background-color: #5A1846; /* or whatever color you want */
+}
+
+.page__footer,
+.page__footer a {
+  color: #ffffff !important; /* soft white text, matches masthead */
+}
+
+.page__footer a:hover {
+  color: #ffffff !important;
 }
