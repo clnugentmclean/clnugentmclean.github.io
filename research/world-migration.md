@@ -7,7 +7,7 @@ permalink: /research/exams/world-migration/
 
 <input type="text" id="ref-search" placeholder="Search by author or title..." style="width:100%; padding:0.6em; margin-bottom:1em; font-size:1em; border:1px solid #ccc; border-radius:4px;">
 
-To search through the summaries and reading lists, use the text box above to search. Use the drop down arrows to expand and collaspe the differnt lists. The search box will display results that match the search in the expanded drop down menus.
+To search through the summaries, use the text box above to search. The search box will display results that match the search in the expanded drop down menus.
 
 <details open>
 <summary><strong>World Migration</strong> (click to collapse)</summary>
