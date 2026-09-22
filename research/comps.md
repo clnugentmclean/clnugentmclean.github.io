@@ -7,11 +7,10 @@ permalink: /research/exams/
 
 Colleen Louise Nugent McLean, Northeastern University History Department, Qualifying Exams June 17th, 2022
 
-<em>Major Field:</em> [Modern Britain, the British Empire, & World History](https://clnugentmclean.github.io/research/exams/british-empire/)
-
-<em>Minors Fields:</em> 
-- [Global Islam](https://clnugentmclean.github.io/research/exams/global-islam/) 
-- [World Migration](https://clnugentmclean.github.io/research/exams/world-migration)
+<h3>Fields:</h3>
+- <em>Major Field:</em>[Modern Britain, the British Empire, & World History](https://clnugentmclean.github.io/research/exams/british-empire/) 
+- <em>Minor Field:</em>[Global Islam](https://clnugentmclean.github.io/research/exams/global-islam/) 
+- <em>Minor Field:</em>[World Migration](https://clnugentmclean.github.io/research/exams/world-migration)
 
 ###### All summaries written for personal use
 
