@@ -237,8 +237,7 @@ To search through the summaries and reading lists, use the text box above to sea
 <li><a href="https://clnugentmclean.github.io/assets/comps/scott-veil.pdf">Scott, Joan. <em>The Politics of the Veil.</em> Princeton: Princeton University Press, 2010.</a></li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/sayyid-recalling.pdf">Sayyid, Salman. <em>Recalling the Caliphate: Decolonization and World Order.</em> London: Hurst, 2014.</a></li></ul>
 </details>
-<br>
-<br>
+
 <details>
 <summary><strong>World Migration</strong> (click to expand)</summary>
 
