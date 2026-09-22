@@ -234,8 +234,7 @@ To search through the summaries and reading lists, use the text box above to sea
 <li><a href="https://clnugentmclean.github.io/assets/comps/oliver-dee-muslim.pdf">Oliver-Dee, Sean. <em>Muslim Minorities and Citizenship: Authority, Communities, and Islamic Law. London: I.B. Tauris, 2012.</a></li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/saunders-myth.pdf">Saunders, Doug. The Myth of the Muslim Tide: Do Immigrants Threaten the West?</em> New York: Vintage Books, 2012.</a></li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/scott-veil.pdf">Scott, Joan. <em>The Politics of the Veil.</em> Princeton: Princeton University Press, 2010.</a></li>
-<li><a href="https://clnugentmclean.github.io/assets/comps/sayyid-recalling.pdf">Sayyid, Salman. <em>Recalling the Caliphate: Decolonization and World Order.</em> London: Hurst, 2014.</a></li>
-</ul>
+<li><a href="https://clnugentmclean.github.io/assets/comps/sayyid-recalling.pdf">Sayyid, Salman. <em>Recalling the Caliphate: Decolonization and World Order.</em> London: Hurst, 2014.</a></li></ul>
 </details>
 
 <details>
