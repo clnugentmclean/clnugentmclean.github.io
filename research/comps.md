@@ -8,9 +8,9 @@ permalink: /research/exams/
 Colleen Louise Nugent McLean, Northeastern University History Department, Qualifying Exams June 17th, 2022
 
 <h3>Fields:</h3>
-- <em>Major Field:</em>[Modern Britain, the British Empire, & World History](https://clnugentmclean.github.io/research/exams/british-empire/) 
-- <em>Minor Field:</em>[Global Islam](https://clnugentmclean.github.io/research/exams/global-islam/) 
-- <em>Minor Field:</em>[World Migration](https://clnugentmclean.github.io/research/exams/world-migration)
+- <em>Major Field:</em> [Modern Britain, the British Empire, & World History](https://clnugentmclean.github.io/research/exams/british-empire/) 
+- <em>Minor Field:</em> [Global Islam](https://clnugentmclean.github.io/research/exams/global-islam/) 
+- <em>Minor Field:</em> [World Migration](https://clnugentmclean.github.io/research/exams/world-migration)
 
 ###### All summaries written for personal use
 
@@ -84,7 +84,7 @@ To search through the summaries and reading lists, use the text box above to sea
 <h2>Theory and Empire</h2>
 <li><a href="https://clnugentmclean.github.io/assets/comps/adas-prophets.pdf">Adas, Michael. <em>Prophets of Rebellion: Millenarian Protest Movements against the European Colonial Order.</em> Cambridge: Cambridge University Press, 1987.</a>
 </li>
-<li><a href="ttps://clnugentmclean.github.io/assets/comps/anderson-imagined.pdf">Anderson, Benedict. <em>Imagined Communities: Reflections on the Origin and Spread of Nationalism.</em> New York: Verso, 2016.</a>
+<li><a href="https://clnugentmclean.github.io/assets/comps/anderson-imagined.pdf">Anderson, Benedict. <em>Imagined Communities: Reflections on the Origin and Spread of Nationalism.</em> New York: Verso, 2016.</a>
 </li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/belmessous-empire.pdf">Belmessous, Saliha. <em>Empire by Treaty: Negotiating European Expansion.</em> New York: Oxford University Press, 2015.</a>
 </li>
@@ -141,7 +141,7 @@ To search through the summaries and reading lists, use the text box above to sea
 <li><a href="https://clnugentmclean.github.io/assets/comps/thorne-congregational.pdf">Thorne, Susan. <em>Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England</em> (Stanford: Stanford University Press, 1999).</a></li>
 
 <h2>Gender</h2>
-<li><a href=https://clnugentmclean.github.io/assets/comps/ballantyne-burton-moving.pdf">Ballantyne, Tony and Antoinette Burton. <em>Moving Subjects: Gender, Mobility, and Intimacy in an Age of Global Empire.</em> Urbana: University of Illinois Press, 2009.</a></li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/ballantyne-burton-moving.pdf">Ballantyne, Tony and Antoinette Burton. <em>Moving Subjects: Gender, Mobility, and Intimacy in an Age of Global Empire.</em> Urbana: University of Illinois Press, 2009.</a></li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/clancy-smith-gouda-domesticating.pdf">Clancy-Smith, Julia Ann, and Frances Gouda, <em>Domesticating the Empire: Race, Gender, and Family Life in French and Dutch Colonialism</em> Charlottesville: University Press of Virginia, 1998.</a></li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/levine-gender.pdf">Levine, Philippa. <em>Gender and Empire.</em> New York: Oxford University Press, 2004.</a></li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/levine-prostitution.pdf">Levine, Philippa. <em>Prostitution, Race, and Politics: Policing Venereal Disease in the British Empire.</em> London: Routledge, 2003.</a></li>
@@ -232,8 +232,8 @@ To search through the summaries and reading lists, use the text box above to sea
 <li><a href="https://clnugentmclean.github.io/assets/comps/hashas-idea.pdf">Hashas, Mohammed. <em>The Idea of European Islam: Religion, Ethics, Politics, and Perpetual Modernity.</em> New York: Routledge, 2018.</a></li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/jenkins-gods.pdf">Jenkins, Philip. <em>God’s Continent: Christianity, Islam, and Europe’s Religious Crisis.</em> Oxford: Oxford University Press, 2009.</a></li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/motadel-islam.pdf">Motadel, David. <em>Islam and the European Empires.</em> New York: Oxford University Press, 2014.</a></li>
-<li><a href="https://clnugentmclean.github.io/assets/comps/oliver-dee-muslim.pdf">Oliver-Dee, Sean. <em>Muslim Minorities and Citizenship: Authority, Communities, and Islamic Law. London: I.B. Tauris, 2012.</a></li>
-<li><a href="https://clnugentmclean.github.io/assets/comps/saunders-myth.pdf">Saunders, Doug. The Myth of the Muslim Tide: Do Immigrants Threaten the West?</em> New York: Vintage Books, 2012.</a></li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/oliver-dee-muslim.pdf">Oliver-Dee, Sean. <em>Muslim Minorities and Citizenship: Authority, Communities, and Islamic Law.</em> London: I.B. Tauris, 2012.</a></li>
+<li><a href="https://clnugentmclean.github.io/assets/comps/saunders-myth.pdf">Saunders, Doug. <em>The Myth of the Muslim Tide: Do Immigrants Threaten the West?</em> New York: Vintage Books, 2012.</a></li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/scott-veil.pdf">Scott, Joan. <em>The Politics of the Veil.</em> Princeton: Princeton University Press, 2010.</a></li>
 <li><a href="https://clnugentmclean.github.io/assets/comps/sayyid-recalling.pdf">Sayyid, Salman. <em>Recalling the Caliphate: Decolonization and World Order.</em> London: Hurst, 2014.</a></li></ul>
 </details>
