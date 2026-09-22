@@ -1,5 +1,5 @@
 ---
-title: "Global Islam"
+title: "Modern Britain, the British Empire, & World History"
 layout: single
 permalink: /research/exams/british-empire/
 ---
